@@ -7,3 +7,4 @@ This project is currently a work in progress. It does not fully work currently. 
 # Known Issues
 - Errors are a little jank still, but mostly work now. They can be handled propely as intended in the original implementation though.
 - Parsing a command does not work. This is currently the highest priority issue. All i know about it is that if you have a full command entered, it will throw an "Could not parse command: undefined" error.
+- Getting command completion suggestions does not work. Might be fixed when parsing is fixed though.
